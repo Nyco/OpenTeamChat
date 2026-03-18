@@ -9,6 +9,7 @@ Team Chat, inspired by HipChat, Slack, Mattermost, Discord, Zulip (but not Teams
 Open Source under AGPLv3 license
 
 Open Standards based on the XMPP (Jabber) IETF protocol
+Should work with ejabberd, MongooseIM, Prosody (Snikket), Tigase, Openfire...
 
 Modern with the best features
 
