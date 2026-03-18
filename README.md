@@ -18,3 +18,12 @@ Multi-platform:
 - Web (responsive)
 
 ![OpenTeamChat](OpenTeamChat.png)
+
+
+AAA
+
+<img src="OpenTeamChat.png" width="400" />
+
+<img src="OpenTeamChat.png" width="200" />
+
+<img src="OpenTeamChat.png" width="100" />
