@@ -16,3 +16,5 @@ Multi-platform:
 - Mobile: Android, iOS
 - Desktop: Linux, macOS, Linux
 - Web (responsive)
+
+![OpenTeamChat](OpenTeamChat.png)
