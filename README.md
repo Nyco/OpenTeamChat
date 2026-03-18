@@ -1,5 +1,8 @@
 # OpenTeamChat
+
 Open Standards, Open Source, modern, experimental, multi-platform Team Chat
+
+<img src="OpenTeamChat.png" width="200" />
 
 Team Chat, inspired by HipChat, Slack, Mattermost, Discord, Zulip (but not Teams)
 
@@ -16,14 +19,3 @@ Multi-platform:
 - Mobile: Android, iOS
 - Desktop: Linux, macOS, Linux
 - Web (responsive)
-
-![OpenTeamChat](OpenTeamChat.png)
-
-
-AAA
-
-<img src="OpenTeamChat.png" width="400" />
-
-<img src="OpenTeamChat.png" width="200" />
-
-<img src="OpenTeamChat.png" width="100" />
