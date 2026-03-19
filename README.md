@@ -22,7 +22,7 @@ Continuously validate or fail at "Desirability, Viability, Feasibility, Responsi
 
 Leverage AI for speed and automation of strategy and execution
 
-Probably include some sort of AI in the Product
+Probably include some sort of local, sovereign AI in the Product
 
 Note: AI is a risk as well...
 
@@ -32,7 +32,7 @@ Clean User eXperience, with the most productive and innovative features
 
 ## Architecure
 
-Decentralised, privacy-focused, encrypted and secure
+Decentralised, privacy-focused, sovereign, encrypted and secure
 
 ## Inspirations
 
