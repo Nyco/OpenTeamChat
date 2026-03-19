@@ -8,13 +8,27 @@ Teams of contributors to open source, free, libre software
 
 ## Why?
 
-XMPP/Jabber feels old and outdated, but we want to buid really modern, contemporary, up-to-date, and feasible+desirable+viable+responsible
+XMPP/Jabber feels old and outdated, but we want to buid really modern, contemporary, up-to-date, and Feasible, Desirable, Viable, Responsible
 
-Try to rival Slack dominence in some ways, with true experience, and ease-of-use
+Try to rival Slack dominence in some ways, regarding true experience, onboarding, fluidity, and ease-of-use
+
+Give the tools for opensource contributors to switch away from walled-gardens and proprietary platforms
+
+## How?
+
+Start small, progress step by step, feature by feature, platform by platform
+
+Continuously validate or fail at "Desirability, Viability, Feasibility, Responsibility"
+
+Leverage AI for speed and automation of strategy and execution
+
+Probably include some sort of AI in the Product
+
+Note: AI is a risk as well...
 
 ## Modern
 
-Clean User eXperience, with the most productive features
+Clean User eXperience, with the most productive and innovative features
 
 ## Architecure
 
@@ -41,6 +55,8 @@ Interoperability with ejabberd, MongooseIM, Prosody (Snikket), Tigase, Openfire
 ## Experiment
 
 Warning: these are xperimentations by a non-coding Product Manager, with vibe-coding
+
+Open to contributions and collective intelligence
 
 ## Multi-platform: smartphone and computers
 
