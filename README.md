@@ -4,13 +4,13 @@
 
 ## For whom?
 
-Teams of contributirs to open source, free, libre software
+Teams of contributors to open source, free, libre software
 
 ## Why?
 
-XMPP/Jabber but really modern, contemporary, up-to-date
+XMPP/Jabber feels old and outdated, but we want to buid really modern, contemporary, up-to-date, and feasible+desirable+viable+responsible
 
-Rival Slack dominence, with true experience, and ease-of-use
+Try to rival Slack dominence in some ways, with true experience, and ease-of-use
 
 ## Modern
 
@@ -40,7 +40,7 @@ Interoperability with ejabberd, MongooseIM, Prosody (Snikket), Tigase, Openfire
 
 ## Experiment
 
-Warning: these are xperimentations by a non-coding Product Manager
+Warning: these are xperimentations by a non-coding Product Manager, with vibe-coding
 
 ## Multi-platform: smartphone and computers
 
