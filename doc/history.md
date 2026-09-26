@@ -90,7 +90,7 @@ TODO: Teams
 
 - Mattermost, Rocket.Chat, Zulip, Nextcloud Talk, and Element (Tchap) become core options for self‑hosted, GDPR‑friendly, and sovereign deployments.
 
-- Stoat (formerly Revolt) appears as an open‑source, user‑first chat platform, explicitly positioned as a self‑hosted Discord alternative; the project officially renames from Revolt to Stoat around 2025.
+- Stoat (formerly Revolt) appears as an open‑source, user‑first chat platform, explicitly positioned as a self‑hosted Discord alternative; the project officially renames from Revolt to Stoat on 1 October 2025 following a cease and desist over the name.
 
 2020s: XMPP remains active with modern clients (Gajim, Conversations, Dino, Converse, Movim) implementing newer extensions (OMEMO encryption, reactions, replies, MAM, etc.), especially in communities valuing federation, openness, and privacy
 
