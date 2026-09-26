@@ -32,11 +32,15 @@ Early 1990s: IRC peaks in popularity for group chat, especially in technical and
 
 - MSN Messenger launches as Microsoft’s consumer IM client.
 
+- QQ (initially OICQ, "Open ICQ") launches in China by Tencent, inspired by ICQ; renamed after legal pressure from AOL, it rapidly becomes China’s dominant IM platform and the foundation of Tencent’s internet empire.
+
 - Emojis are first introduced in Japan, later becoming a global feature of chat apps.
 
-Early 2000s: AIM, ICQ, Yahoo, and MSN battle for market share; Skype (2003) adds VoIP plus IM; Google Talk (2005) brings XMPP‑based chat into Gmail.
+2000: Gadu-Gadu launches in Poland, created by Łukasz Foltyn; each user receives a unique numeric ID in the style of ICQ, and the platform peaks at 7 million users and 300 million messages daily, dominating Polish IM for years.
 
-TODO: Gadu-Gadu, tentative paying, B2C, XSF
+Early 2000s: AIM, ICQ, Yahoo, and MSN battle for market share; Skype (2003) adds free VoIP plus IM over peer-to-peer, founded by Niklas Zennström and Janus Friis, acquired by eBay (2005) then Microsoft for $8.5 billion (2011), and shut down in 2025; Google Talk (2005) brings XMPP‑based chat into Gmail.
+
+TODO: tentative paying, B2C, XSF
 
 ## Mobile messaging and chat apps overtake SMS (mid‑2000s–2010s)
 
@@ -50,7 +54,11 @@ Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring l
 
 - Kik and Viber (2010).
 
+- KakaoTalk (2010) launches in South Korea and captures roughly 90% of the local market, later evolving into a super-app with payments, gaming, and services.
+
 - Facebook Messenger and Snapchat (2011).
+
+- LINE (2011) is built by NHN Japan engineers who turned to internet messaging after the Tōhoku earthquake knocked out phone infrastructure; it reaches 100 million users within 18 months and dominates messaging in Japan and across Asia.
 
 2013: Chat apps globally surpass SMS in message volume.
 
@@ -62,9 +70,9 @@ Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring l
 
 - Discord (2015) starts as a low‑latency voice/text platform for gamers, then expands to broader communities.
 
-TODO: LINE, QQ, B2B
-
 ## Enterprise/team chat and the “Slack era” (2010s)
+
+2003–2021: Microsoft builds its enterprise communications stack through successive rebrands: Live Communications Server (LCS, 2003), Office Communications Server (OCS, 2007), Lync Server (2010), Skype for Business (2015, integrating the Skype brand after the 2011 acquisition), and Microsoft Teams (2017), a Slack‑style hub tying together chat, voice, video, and Office 365; Teams surges during the COVID‑19 pandemic and Skype for Business Online is retired in 2021.
 
 2010: HipChat launches as an early team‑focused chat tool; later acquired by Atlassian (2012) and killed.
 
@@ -79,8 +87,6 @@ TODO: LINE, QQ, B2B
 - Matrix protocol is created (2014); the reference client launches as Vector (2015), later rebranded Riot (2016), then Element (2019+), enabling decentralized, federated chat.
 
 2018–2019: Atlassian discontinues HipChat and Stride, migrating users to Slack; HipChat’s IP is sold to Slack.
-
-TODO: Teams
 
 ## Open, decentralized, and sovereign chat (late 2010s–2020s)
 
