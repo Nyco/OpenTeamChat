@@ -2,96 +2,186 @@
 
 <img src="OpenTeamChat.png" width="200" />
 
-## Chat and instant messaging
+## OpenTeamChat is an open, modern team chat built on XMPP
 
-Lots are proprietary, centralised (walled gardens), enshittified, lots are using your data to resell, or feed AI...
+It aims to provide a serious alternative to proprietary team communication platforms while keeping the underlying technology open, interoperable and under the control of its users and communities.
 
-Some are open source, some are decentralised, but none is really world-class.
+> Open standards. Open source. Open ecosystems.
 
-## For whom?
+## Why
 
-### Users
+Team chat has become dominated by proprietary platforms and closed ecosystems.
 
-Teams or individual contributors to open source, free, libre software
+OpenTeamChat explores a different approach:
 
-Who are ok to try alpha software
+- Open standards: based on XMPP and IETF standards
+- Free, libre, and open source: AGPLv3
+- Interoperable: designed to work with existing XMPP servers and clients
+- Privacy-focused: no dependency on a proprietary central platform
+- Sovereign: organisations and communities can operate their own infrastructure
+- Multi-platform: mobile, desktop and web
+- Modern UX/UI: simple, clean, fast, elegant, and easy to use
 
-### Contributors
+The goal is not to reinvent messaging protocols. The goal is to make an open protocol and ecosystem feel as good to use as a modern team chat application.
 
-People, coders, designers, users, translators, project and product managers
+## Who is it for?
 
-Who still want a modern a bleeding-edge XMPP client/service, that we are waiting for, since forever.
+### Open source communities and ecosystems
 
-### Clients, customers
+For free, libre and open source software projects, communities, foundations and ecosystems that need team communication without depending on a proprietary platform.
 
-Companies, organisations, foundations, associations, informal groups and teams, commuities and ecosystems.
+### IT professionals
 
-Who need control and openness on chat and instant messaging.
+For developers, designers, product managers, project managers, translators, administrators and other contributors who want a modern and efficient team chat.
 
-### Partners
+### Organisations
 
-Contributors, integrators, trainers, change managers, consultants.
+For private and public organisations, companies, associations, foundations and informal teams that need control over their communication infrastructure, data and integrations.
 
-Who provide help and services.
+### Contributors and partners
 
-## Challenge
+OpenTeamChat is open to people contributing: code, UX, UI and design, product management, documentation, localisation and translations, testing and bug reporting, infrastructure and devops, strategy, community building, backing and funding.
 
-XMPP/Jabber feels old and outdated, but we want to buid really modern, contemporary, up-to-date.
+Integrators, consultants, trainers and other service providers are also welcome to contribute to the ecosystem.
 
-We want something Feasible, Desirable, Viable, and Responsible.
+## What is different?
 
-We want to try to rival Slack and Teams dominence in some ways, regarding true core chat experience, onboarding, fluidity, and ease-of-use.
+OpenTeamChat starts from a simple idea:
 
-Give the tools for people to switch away from walled-gardens, vendro lock-in software, and proprietary platforms.
+**XMPP is an open, proven protocol. The user experience does not have to feel old.**
 
-## How
+The project focuses on the parts of team chat that matter every day:
 
-Start small, progress step by step, feature by feature, platform by platform.
+* onboarding
+* conversations
+* archiving
+* notifications
+* search
+* usability
+* responsiveness
+* cross-device experience
 
-Continuously validate or fail at "Desirability, Viability, Feasibility, Responsibility".
+The ambition is to combine the openness and interoperability of XMPP with the usability people expect from contemporary team chat applications.
 
-Leverage AI and vibe-coding for speed and automation of strategy and execution, for the proof of concept.
+## Principles
 
-Probably include or authorise some sort of local, lightweight, sovereign, responsible AI.
+### Open by default
 
-Note: AI is a risk as well...
+Open standards, open source, and interoperable client and server network and infrastructure.
 
-## Modern
+### User-centric
 
-Clean User eXperience, with the most productive and innovative core features.
+Simple interfaces, clear interactions, standard patterns, and a focus on everyday productivity.
 
-Focus on the essentials, and robust foundations.
+### Privacy and sovereignty
 
-User-centric, easy and intuitive to use, decentralised, privacy-focused, sovereign, encrypted and secure.
+Users and organisations should have control over their communication infrastructure and data.
+
+### Decentralised
+
+The architecture should not require everyone to depend on one central service.
+
+### Secure
+
+Encryption and secure infrastructure are fundamental requirements.
+
+### Responsible
+
+Technology choices should consider their social, environmental and operational impact.
+
+## Technology
+
+### XMPP/Jabber
+
+OpenTeamChat is based on **XMPP (Jabber)**, an open standard maintained through the IETF and XSF.
+
+It is intended to interoperate with existing XMPP infrastructure, including:
+
+* ejabberd
+* MongooseIM
+* Prosody / Snikket
+* Tigase
+* Openfire
+
+OpenTeamChat is a client/service experiment built around this existing ecosystem rather than a replacement for XMPP itself.
+
+### Platforms
+
+The product targets:
+
+* **Android**
+* **iOS**
+* **Linux**
+* **macOS**
+* **Web**
+* **PWA**
+
+## Open source
+
+OpenTeamChat is released under the **AGPLv3** copyleft license so it is a digital common.
+
+The project is intended to remain open, modifiable and reusable by communities and organisations.
+
+## Project status
+
+**OpenTeamChat is experimental.**
+
+It is currently a proof of concept and an exploration of what a modern XMPP-based team chat could look like.
+
+The project is developed incrementally:
+
+1. Start with a small, useful scope.
+2. Validate the user experience.
+3. Build robust foundations.
+4. Add features step by step.
+5. Validate desirability, feasibility, viability and responsibility continuously.
+
+The project also experiments with AI-assisted development and automation.
+AI is considered a development tool, not a goal of the project.
 
 ## Inspirations
 
-Open Source XMPP: Gajim, Converse, Conversations (Psi, Psi-Plus, Dino, Kaidan).
+OpenTeamChat builds on ideas and experience from existing projects, including:
 
-Open Source non-XMPP: Mattermost, Zulip, Rocket.Chat, Nextcloud Talk, Element, Stoat (ex-Revolt).
+**XMPP**
 
-Proprietary: HipChat, Slack, Discord (but not Teams)
+* Gajim
+* Converse
+* Conversations
+* Dino
 
-## Free, libre, open source
+**Open source team communication**
 
-Open Source under AGPLv3 license
+* Mattermost
+* Zulip
+* Rocket.Chat
+* Nextcloud Talk
+* Element
+* Stoat
 
-## True, unencumbered open standards
+**Commercial products**
 
-Open Standards based on the XMPP (Jabber), IETF protocol.
+* Slack
+* Discord
+* HipChat
 
-Interoperability with ejabberd, MongooseIM, Prosody (Snikket), Tigase, Openfire
+## Contributing
 
-## Experiment
+OpenTeamChat is open to contributions beyond code.
 
-Warning: these are xperimentations by a non-coding Product Manager, with vibe-coding.
+You can contribute through:
 
-Open to contributions: code, design, strategy, collective intelligence.
+* software development
+* UX, UI and product design
+* testing & bug reporting
+* documentation, internationalisation, localisation, translation
+* product strategy and tactics
+* communication and marketing
+* infrastructure
+* accessibility
+* community building
+* ideas and feedback
 
-## Multi-platform: smartphone and computers
+If you work with XMPP, open source, team collaboration or enterprise IT, your experience is particularly useful.
 
-Multi-platform:
-
-- Mobile: Android, iOS
-- Desktop: Linux, macOS, Linux
-- Web (responsive, PWA)
+**The project is experimental. Contributions and critical feedback are welcome.**
