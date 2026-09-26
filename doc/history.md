@@ -48,6 +48,8 @@ TODO: tentative paying, B2C, XSF
 
 Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring lines between social media and IM.
 
+2009: Google Wave previews at Google I/O, combining real-time collaborative editing, threaded messaging, and IM in a single document-centric model; technically pioneering but too complex to explain, it is shut down in 2010; its real-time operational-transformation engine lives on in Google Docs.
+
 2009–2011: Smartphone‑native chat apps explode:
 
 - WhatsApp (2009) offers free texting over data.
@@ -60,9 +62,15 @@ Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring l
 
 - LINE (2011) is built by NHN Japan engineers who turned to internet messaging after the Tōhoku earthquake knocked out phone infrastructure; it reaches 100 million users within 18 months and dominates messaging in Japan and across Asia.
 
+- iMessage (2011) launches as Apple's built-in encrypted messaging across iOS and macOS, seamlessly replacing SMS within the Apple ecosystem; by late 2012 it is blamed for a measurable decline in US SMS volume.
+
+- WeChat (Weixin, 2011) launches in China by Tencent and rapidly becomes the world's first true super-app, integrating messaging, payments, social media, and Mini Programs; it surpasses 1 billion monthly users by 2018.
+
 2013: Chat apps globally surpass SMS in message volume.
 
 2013–2015: New generations of chat platforms appear:
+
+- Google Hangouts (2013) replaces Google Talk, unifying text, voice, and video under a single app integrated into Gmail and Google Workspace; widely adopted but discontinued in 2022 and succeeded by Google Chat.
 
 - Telegram (2013) focuses on speed and large groups.
 
@@ -72,7 +80,13 @@ Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring l
 
 ## Enterprise/team chat and the “Slack era” (2010s)
 
+1999: Lotus Sametime launches as IBM's enterprise instant messaging platform, built from the acquisitions of presence technology company Ubique and conferencing company DataBeam; it becomes the dominant corporate IM solution through the 2000s, used by over 15 million people worldwide, before being transferred to HCL Technologies in 2019.
+
 2003–2021: Microsoft builds its enterprise communications stack through successive rebrands: Live Communications Server (LCS, 2003), Office Communications Server (OCS, 2007), Lync Server (2010), Skype for Business (2015, integrating the Skype brand after the 2011 acquisition), and Microsoft Teams (2017), a Slack‑style hub tying together chat, voice, video, and Office 365; Teams surges during the COVID‑19 pandemic and Skype for Business Online is retired in 2021.
+
+2006: Campfire launches by 37signals as the first modern web-based team chat for businesses, pioneering the channel-based model later popularised by Slack; it stops accepting new customers in 2013 and its features are folded into Basecamp.
+
+2008: Yammer launches as an enterprise social network, bringing Twitter-style activity feeds inside organisations; acquired by Microsoft for $1.2 billion in 2012, integrated into Office 365, and later rebranded as Viva Engage (2023).
 
 2010: HipChat launches as an early team‑focused chat tool; later acquired by Atlassian (2012) and killed.
 
