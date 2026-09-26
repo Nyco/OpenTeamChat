@@ -2,7 +2,7 @@
 
 ## Pre‑internet and early networked messaging (1960s–1970s)
 
-1961–1965: MIT’s Compatible Time‑Sharing System (CTSS) allows logged‑in users to send short text messages to each other on a shared mainframe; by 1965 it connects hundreds of users across institutions, exhibiting modern IM‑like behavior.
+1961–1965: MIT’s Compatible Time‑Sharing System (CTSS) allows logged‑in users to send short text messages to each other on a shared mainframe; by 1965 it has hundreds of users at MIT, exhibiting modern IM‑like behavior.
 
 Early 1970s: IM‑style chat functions appear on government and research networks, establishing the pattern of real‑time text exchange between users on a shared system.
 
@@ -66,7 +66,7 @@ TODO: LINE, QQ, B2B
 
 ## Enterprise/team chat and the “Slack era” (2010s)
 
-2010: HipChat launches as an early team‑focused chat tool; later acquired by Atlassian (2012), open sourced, and killed.
+2010: HipChat launches as an early team‑focused chat tool; later acquired by Atlassian (2012) and killed.
 
 2013: Slack launches publicly and rapidly becomes the de facto standard for team chat in startups and tech companies.
 
