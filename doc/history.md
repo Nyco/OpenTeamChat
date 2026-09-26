@@ -44,6 +44,10 @@ TODO: tentative paying, B2C, XSF
 
 ## Mobile messaging and chat apps overtake SMS (mid‑2000s–2010s)
 
+1992: The first SMS is sent on 3 December by Neil Papworth over the Vodafone GSM network; standardised by the GSM consortium, SMS grows into the world's most widely used communication channel through the 1990s and 2000s.
+
+2002: MMS (Multimedia Messaging Service) extends SMS to images, audio, and video over carrier networks, but sees limited adoption compared to SMS.
+
 2005: BlackBerry Messenger (BBM) becomes the first popular mobile‑centric IM, blending traditional IM with mobile SMS‑like behavior on BlackBerry devices.
 
 Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring lines between social media and IM.
@@ -114,7 +118,7 @@ Late 2000s: Social networks embed chat (e.g., Facebook Chat in 2008), blurring l
 
 2020s: XMPP remains active with modern clients (Gajim, Conversations, Dino, Converse, Movim) implementing newer extensions (OMEMO encryption, reactions, replies, MAM, etc.), especially in communities valuing federation, openness, and privacy
 
-TODO: RCS
+2007–2024: RCS (Rich Communication Services) is standardised by the GSMA as a carrier SMS successor with read receipts, typing indicators, and media sharing; hampered by fragmentation for over a decade, it gains traction when Google drives adoption via Android Messages from 2019 and Apple adds support in iOS 18 (2024).
 
 ## TODO
 
