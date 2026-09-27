@@ -22,7 +22,7 @@ Async voice messages (2013+): WeChat popularises hold-to-talk voice snippets, cr
 
 Chat surpassing SMS (2013): Global message volume in chat apps overtakes traditional SMS, marking the shift from telco‑centric to app‑centric messaging (OTT, "Over The Top" from the point of view of Telco), with many more attractive features as compared to SMS and limited evolutions like MMS.
 
-Team Chat as a workflow hub (2006–2015): Campfire pioneers it, Slack popularises it, and successors turn chat into a central collaboration layer with multi-user channels, threads, reactions, deep app integrations, search, and bots, across synchronised mobile and desktop — bringing team messaging into the mainstream alongside email for the first time.
+Team Chat as a workflow hub (2006–2015): Campfire pioneers it, HipChat reinforces it, Slack popularises it, and successors turn chat into a central collaboration layer with multi-user channels, threads, reactions, deep app integrations, search, and bots, across synchronised mobile and desktop — bringing team messaging into the mainstream alongside email for the first time.
 
 Privacy-focused messaging and modern E2EE (2013–2016): Signal and other privacy-orientated messengers make strong end-to-end encryption increasingly accessible, with cryptographic confidentiality becoming a central easy-to-use feature.
 
